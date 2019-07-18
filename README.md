@@ -32,4 +32,4 @@ This test basically mocks the `EmployeeUseCase` and test the result of the state
 
 ### Download
 You can download the app accessing the following link:
-REPLACE_URL
+[DOWNLOAD](https://github.com/maiconhellmann/bluecoding-evaluation/blob/master/app/build/outputs/apk/debug/app-debug.apk)
