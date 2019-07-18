@@ -1,0 +1,331 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/61da89521c43022798bb5643f289f257/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/8e565855076ff0b11c8f6eb175aa3bbe/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-testing:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/af13aba453eb155f190faf85dd5c6f89/AndroidManifest.xml:17:1-40:12
+MERGED from [org.koin:koin-android-scope:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/1ccfff8d069374ae8d918fd7abefc722/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/3658ebf5cc2b27ea25bbe510da774672/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/77296ee6583969e3a8430b82f9a603bc/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/4dc163aeed4f27f99b34e8a8f431ef3b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/8c776febcb8412b33ffe033de1df657b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/7970e4bfa38a80792e1e79ff56aab002/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/679838fe6407c847afcf5675dc7a17ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/4da80d4213b7499976a7aa60f9631810/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/ed791cafaba5780f8766bd4069d5f48b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/a0ce92c7fe124e4d197845263fb19ae8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/2319b76b3bf6f9865007e0675ab1b221/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/846ed4ad6bb2c3d02935dca47a5ed068/AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/8b3df1697ba5b5deb45d0a2f21cdcffc/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment-ktx:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/ab7b54d865baac58b257636ff122f475/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/f5a21b9a23905a63782157b415cd61a1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e268f0d1cbdac00a49f9198e4ca9db9d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.0.2] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/7634bcd664f977ad09224fb20aa283a2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.0.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/dd80f764a8f887276444a702d7a27ada/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/ab1ea19820be013e8e6f259e84b0079b/AndroidManifest.xml:17:1-22:12
+MERGED from [org.koin:koin-android:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/493f54ccb36b9562a3b1c3e3554f38f2/AndroidManifest.xml:2:1-7:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/65a2501dab12098d6695d87cdab16451/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e5c367f94ca663d73feea4d6a5c5cc0f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/cf46026148e926180f9ab2f2c8cc82dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/ffd516b450efcab9585767877786b227/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/badfc8559a74a4ede6b0c98d4c627f2c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/1dc2707b019ac68d22274f5993c87a4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/68385b5461c3f49cb5dd4f99ea7fe4a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/5de75e96210615177e7c31c10ab5ba36/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/c05c65c37a7316c90e5d8043fd27f277/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/ecbd33cd48f046014929d78e847b4a56/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/f84d5f6f64fcd63ddcc501eb58ef1b7f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e34ce6fb2aae7165ab119b32c5c35a03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/9aee37e62492e48019e0d3060f9de8d1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/b895eed42c12779864dfa52586bac65f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e64f466180c52ab9ce25af427597a10d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/2169413cd65065781a8303bc8a4d535a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/5607fd26ad482ddf03cc3e3d05a00d17/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/4432e9d2034ed387089f881d46e65f2a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/de75465315e121e4b553fc6e16b224a8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/9f2a191af86cf65043927ea34403d4f3/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/2682a6a2ebf641005af7c646d6323142/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/b82fc5a5f9f625eb8237c95ef90ac179/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/73528e065092939dded4a1a705a1f088/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/d33b161d965d64771d33bf794487c003/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.test:core:1.1.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e1c41771e1bdde8581d5c351c0572177/AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/c5a0fb726d9bcc5735c0eabc955bda0e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/0b266c25eff1a03bbe64ce324c5dc68c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/93c8257b4811cb78c2bccc5c05235250/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/02f6eca4ab23611af58f8e18c33de3cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/caaf43b4af455c31349a6007b98eee62/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.test:monitor:1.1.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/c3f1d245d4d311da77cdb827d8713216/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/3de91c61c1a7ee9a30f750bea5e6104a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/74616266ec9ad1aa56f6ebcbf77cd763/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/27cb0191862b74e225d01a2302542216/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/3e92df56e85180042ae114b9d0ffa0c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/664b584844b8cfd7eb193ccb47f02869/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/c1ab219e5138080e19c6d3fe4c30cc16/AndroidManifest.xml:17:1-22:12
+INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:2:11-60
+		INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml
+		INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:3:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [androidx.fragment:fragment-testing:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/af13aba453eb155f190faf85dd5c6f89/AndroidManifest.xml:27:5-38:19
+MERGED from [androidx.fragment:fragment-testing:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/af13aba453eb155f190faf85dd5c6f89/AndroidManifest.xml:27:5-38:19
+MERGED from [org.koin:koin-android-scope:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/1ccfff8d069374ae8d918fd7abefc722/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-scope:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/1ccfff8d069374ae8d918fd7abefc722/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/3658ebf5cc2b27ea25bbe510da774672/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/3658ebf5cc2b27ea25bbe510da774672/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/77296ee6583969e3a8430b82f9a603bc/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/77296ee6583969e3a8430b82f9a603bc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/7970e4bfa38a80792e1e79ff56aab002/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/7970e4bfa38a80792e1e79ff56aab002/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/4da80d4213b7499976a7aa60f9631810/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/4da80d4213b7499976a7aa60f9631810/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/846ed4ad6bb2c3d02935dca47a5ed068/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/846ed4ad6bb2c3d02935dca47a5ed068/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/8b3df1697ba5b5deb45d0a2f21cdcffc/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/8b3df1697ba5b5deb45d0a2f21cdcffc/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0-rc01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/9f2a191af86cf65043927ea34403d4f3/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/9f2a191af86cf65043927ea34403d4f3/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/2682a6a2ebf641005af7c646d6323142/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/2682a6a2ebf641005af7c646d6323142/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/d33b161d965d64771d33bf794487c003/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/d33b161d965d64771d33bf794487c003/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.test:core:1.1.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e1c41771e1bdde8581d5c351c0572177/AndroidManifest.xml:26:5-48:19
+MERGED from [androidx.test:core:1.1.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e1c41771e1bdde8581d5c351c0572177/AndroidManifest.xml:26:5-48:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/caaf43b4af455c31349a6007b98eee62/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/caaf43b4af455c31349a6007b98eee62/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/9f2a191af86cf65043927ea34403d4f3/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:13:9-40
+	android:usesCleartextTraffic
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:14:9-46
+activity#com.maiconhellmann.bluecodingevaluation.MainActivity
+ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml
+INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/61da89521c43022798bb5643f289f257/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/61da89521c43022798bb5643f289f257/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/8e565855076ff0b11c8f6eb175aa3bbe/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/8e565855076ff0b11c8f6eb175aa3bbe/AndroidManifest.xml:22:5-44
+MERGED from [androidx.fragment:fragment-testing:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/af13aba453eb155f190faf85dd5c6f89/AndroidManifest.xml:20:5-23:54
+MERGED from [androidx.fragment:fragment-testing:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/af13aba453eb155f190faf85dd5c6f89/AndroidManifest.xml:20:5-23:54
+MERGED from [org.koin:koin-android-scope:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/1ccfff8d069374ae8d918fd7abefc722/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-scope:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/1ccfff8d069374ae8d918fd7abefc722/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/3658ebf5cc2b27ea25bbe510da774672/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/3658ebf5cc2b27ea25bbe510da774672/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/77296ee6583969e3a8430b82f9a603bc/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/77296ee6583969e3a8430b82f9a603bc/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/4dc163aeed4f27f99b34e8a8f431ef3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/4dc163aeed4f27f99b34e8a8f431ef3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/8c776febcb8412b33ffe033de1df657b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/8c776febcb8412b33ffe033de1df657b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/7970e4bfa38a80792e1e79ff56aab002/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/7970e4bfa38a80792e1e79ff56aab002/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/679838fe6407c847afcf5675dc7a17ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/679838fe6407c847afcf5675dc7a17ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/4da80d4213b7499976a7aa60f9631810/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/4da80d4213b7499976a7aa60f9631810/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/ed791cafaba5780f8766bd4069d5f48b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/ed791cafaba5780f8766bd4069d5f48b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/a0ce92c7fe124e4d197845263fb19ae8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/a0ce92c7fe124e4d197845263fb19ae8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/2319b76b3bf6f9865007e0675ab1b221/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/2319b76b3bf6f9865007e0675ab1b221/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/846ed4ad6bb2c3d02935dca47a5ed068/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/846ed4ad6bb2c3d02935dca47a5ed068/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/8b3df1697ba5b5deb45d0a2f21cdcffc/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/8b3df1697ba5b5deb45d0a2f21cdcffc/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/ab7b54d865baac58b257636ff122f475/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/ab7b54d865baac58b257636ff122f475/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/f5a21b9a23905a63782157b415cd61a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/f5a21b9a23905a63782157b415cd61a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e268f0d1cbdac00a49f9198e4ca9db9d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e268f0d1cbdac00a49f9198e4ca9db9d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.0.2] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/7634bcd664f977ad09224fb20aa283a2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/7634bcd664f977ad09224fb20aa283a2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.0.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/dd80f764a8f887276444a702d7a27ada/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.0.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/dd80f764a8f887276444a702d7a27ada/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/ab1ea19820be013e8e6f259e84b0079b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/ab1ea19820be013e8e6f259e84b0079b/AndroidManifest.xml:20:5-44
+MERGED from [org.koin:koin-android:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/493f54ccb36b9562a3b1c3e3554f38f2/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/493f54ccb36b9562a3b1c3e3554f38f2/AndroidManifest.xml:5:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/65a2501dab12098d6695d87cdab16451/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/65a2501dab12098d6695d87cdab16451/AndroidManifest.xml:18:5-43
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e5c367f94ca663d73feea4d6a5c5cc0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e5c367f94ca663d73feea4d6a5c5cc0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/cf46026148e926180f9ab2f2c8cc82dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/cf46026148e926180f9ab2f2c8cc82dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/ffd516b450efcab9585767877786b227/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/ffd516b450efcab9585767877786b227/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/badfc8559a74a4ede6b0c98d4c627f2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/badfc8559a74a4ede6b0c98d4c627f2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/1dc2707b019ac68d22274f5993c87a4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/1dc2707b019ac68d22274f5993c87a4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/68385b5461c3f49cb5dd4f99ea7fe4a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/68385b5461c3f49cb5dd4f99ea7fe4a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/5de75e96210615177e7c31c10ab5ba36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/5de75e96210615177e7c31c10ab5ba36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/c05c65c37a7316c90e5d8043fd27f277/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/c05c65c37a7316c90e5d8043fd27f277/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/ecbd33cd48f046014929d78e847b4a56/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/ecbd33cd48f046014929d78e847b4a56/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/f84d5f6f64fcd63ddcc501eb58ef1b7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/f84d5f6f64fcd63ddcc501eb58ef1b7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e34ce6fb2aae7165ab119b32c5c35a03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e34ce6fb2aae7165ab119b32c5c35a03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/9aee37e62492e48019e0d3060f9de8d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/9aee37e62492e48019e0d3060f9de8d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/b895eed42c12779864dfa52586bac65f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/b895eed42c12779864dfa52586bac65f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e64f466180c52ab9ce25af427597a10d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e64f466180c52ab9ce25af427597a10d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/2169413cd65065781a8303bc8a4d535a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/2169413cd65065781a8303bc8a4d535a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/5607fd26ad482ddf03cc3e3d05a00d17/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/5607fd26ad482ddf03cc3e3d05a00d17/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/4432e9d2034ed387089f881d46e65f2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.1.0-alpha04] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/4432e9d2034ed387089f881d46e65f2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/de75465315e121e4b553fc6e16b224a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/de75465315e121e4b553fc6e16b224a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/9f2a191af86cf65043927ea34403d4f3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/9f2a191af86cf65043927ea34403d4f3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/2682a6a2ebf641005af7c646d6323142/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/2682a6a2ebf641005af7c646d6323142/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/b82fc5a5f9f625eb8237c95ef90ac179/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/b82fc5a5f9f625eb8237c95ef90ac179/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/73528e065092939dded4a1a705a1f088/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/73528e065092939dded4a1a705a1f088/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/d33b161d965d64771d33bf794487c003/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/d33b161d965d64771d33bf794487c003/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.1.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e1c41771e1bdde8581d5c351c0572177/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.1.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e1c41771e1bdde8581d5c351c0572177/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/c5a0fb726d9bcc5735c0eabc955bda0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/c5a0fb726d9bcc5735c0eabc955bda0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/0b266c25eff1a03bbe64ce324c5dc68c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/0b266c25eff1a03bbe64ce324c5dc68c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/93c8257b4811cb78c2bccc5c05235250/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/93c8257b4811cb78c2bccc5c05235250/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/02f6eca4ab23611af58f8e18c33de3cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/02f6eca4ab23611af58f8e18c33de3cf/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/caaf43b4af455c31349a6007b98eee62/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/caaf43b4af455c31349a6007b98eee62/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.test:monitor:1.1.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/c3f1d245d4d311da77cdb827d8713216/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.1.1] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/c3f1d245d4d311da77cdb827d8713216/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/3de91c61c1a7ee9a30f750bea5e6104a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/3de91c61c1a7ee9a30f750bea5e6104a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/74616266ec9ad1aa56f6ebcbf77cd763/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/74616266ec9ad1aa56f6ebcbf77cd763/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/27cb0191862b74e225d01a2302542216/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/27cb0191862b74e225d01a2302542216/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/3e92df56e85180042ae114b9d0ffa0c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/3e92df56e85180042ae114b9d0ffa0c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/664b584844b8cfd7eb193ccb47f02869/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/664b584844b8cfd7eb193ccb47f02869/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/c1ab219e5138080e19c6d3fe4c30cc16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/c1ab219e5138080e19c6d3fe4c30cc16/AndroidManifest.xml:20:5-44
+INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml
+INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [androidx.fragment:fragment-testing:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/af13aba453eb155f190faf85dd5c6f89/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml
+		INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml
+		ADDED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml
+		INJECTED from /opt/projects/BlueCodingEvaluation/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.fragment:fragment-testing:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/af13aba453eb155f190faf85dd5c6f89/AndroidManifest.xml:25:5-72
+MERGED from [androidx.test:core:1.1.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e1c41771e1bdde8581d5c351c0572177/AndroidManifest.xml:24:5-72
+MERGED from [androidx.test:core:1.1.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e1c41771e1bdde8581d5c351c0572177/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.fragment:fragment-testing:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/af13aba453eb155f190faf85dd5c6f89/AndroidManifest.xml:25:22-69
+activity#androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+ADDED from [androidx.fragment:fragment-testing:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/af13aba453eb155f190faf85dd5c6f89/AndroidManifest.xml:28:9-37:20
+	android:multiprocess
+		ADDED from [androidx.fragment:fragment-testing:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/af13aba453eb155f190faf85dd5c6f89/AndroidManifest.xml:31:13-40
+	android:exported
+		ADDED from [androidx.fragment:fragment-testing:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/af13aba453eb155f190faf85dd5c6f89/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [androidx.fragment:fragment-testing:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/af13aba453eb155f190faf85dd5c6f89/AndroidManifest.xml:33:13-78
+	android:taskAffinity
+		ADDED from [androidx.fragment:fragment-testing:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/af13aba453eb155f190faf85dd5c6f89/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [androidx.fragment:fragment-testing:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/af13aba453eb155f190faf85dd5c6f89/AndroidManifest.xml:29:13-96
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [androidx.fragment:fragment-testing:1.1.0-beta01] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/af13aba453eb155f190faf85dd5c6f89/AndroidManifest.xml:34:13-36:29
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/2682a6a2ebf641005af7c646d6323142/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/2682a6a2ebf641005af7c646d6323142/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/2682a6a2ebf641005af7c646d6323142/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/2682a6a2ebf641005af7c646d6323142/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/2682a6a2ebf641005af7c646d6323142/AndroidManifest.xml:24:13-79
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.1.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e1c41771e1bdde8581d5c351c0572177/AndroidManifest.xml:27:9-33:20
+	android:theme
+		ADDED from [androidx.test:core:1.1.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e1c41771e1bdde8581d5c351c0572177/AndroidManifest.xml:29:13-88
+	android:name
+		ADDED from [androidx.test:core:1.1.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e1c41771e1bdde8581d5c351c0572177/AndroidManifest.xml:28:13-99
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.1.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e1c41771e1bdde8581d5c351c0572177/AndroidManifest.xml:34:9-40:20
+	android:theme
+		ADDED from [androidx.test:core:1.1.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e1c41771e1bdde8581d5c351c0572177/AndroidManifest.xml:36:13-84
+	android:name
+		ADDED from [androidx.test:core:1.1.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e1c41771e1bdde8581d5c351c0572177/AndroidManifest.xml:35:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.1.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e1c41771e1bdde8581d5c351c0572177/AndroidManifest.xml:41:9-47:20
+	android:theme
+		ADDED from [androidx.test:core:1.1.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e1c41771e1bdde8581d5c351c0572177/AndroidManifest.xml:43:13-87
+	android:name
+		ADDED from [androidx.test:core:1.1.0] /home/maiconhellmann/.gradle/caches/transforms-2/files-2.1/e1c41771e1bdde8581d5c351c0572177/AndroidManifest.xml:42:13-103

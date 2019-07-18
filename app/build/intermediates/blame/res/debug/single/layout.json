@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/opt/projects/BlueCodingEvaluation/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_employee_list.xml",
+        "source": "/opt/projects/BlueCodingEvaluation/app/src/main/res/layout/fragment_employee_list.xml"
+    },
+    {
+        "merged": "/opt/projects/BlueCodingEvaluation/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/employee_add_fragment.xml",
+        "source": "/opt/projects/BlueCodingEvaluation/app/src/main/res/layout/employee_add_fragment.xml"
+    },
+    {
+        "merged": "/opt/projects/BlueCodingEvaluation/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_employee_detail.xml",
+        "source": "/opt/projects/BlueCodingEvaluation/app/src/main/res/layout/fragment_employee_detail.xml"
+    },
+    {
+        "merged": "/opt/projects/BlueCodingEvaluation/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/opt/projects/BlueCodingEvaluation/app/src/main/res/layout/activity_main.xml"
+    }
+]

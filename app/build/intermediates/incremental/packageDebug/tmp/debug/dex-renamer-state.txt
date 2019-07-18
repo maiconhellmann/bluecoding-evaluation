@@ -1,0 +1,4 @@
+#Thu Jul 18 19:39:13 CEST 2019
+base.0=/opt/projects/BlueCodingEvaluation/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
